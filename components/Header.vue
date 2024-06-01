@@ -1,6 +1,6 @@
 <template>
     <div>
-       <div class="navbar border-b border-emerald-400 rounded-lg shadow">
+       <div class="navbar shadow">
      <div class="navbar-start">
        <div class="dropdown">
          <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
