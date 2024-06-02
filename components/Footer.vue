@@ -1,7 +1,12 @@
 <template>
-    <footer class="footer p-10 bg-base-300 text-base-content mt-20">
+  <footer class="footer p-10 bg-base-300 text-base-content mt-20">
   <nav>
-    <h6 class="footer-title">Entradas de blog</h6> 
+    <a class="link link-hover"><NuxtLink to="/">Inicio</NuxtLink></a>
+    <a class="link link-hover"><NuxtLink to="/about">Acerca de GodCandle</NuxtLink></a>
+    <a class="link link-hover"><NuxtLink to="/blog">Blog</NuxtLink></a>
+  </nav> 
+  <nav>
+    <h6 class="footer-title">Entradas</h6> 
     <a class="link link-hover">Introducción a crypto-blockchain</a>
     <a class="link link-hover">Proyectos de calidad</a>
     <a class="link link-hover">Narrativas</a>
@@ -39,10 +44,13 @@
             </svg>
         </a>
         <a href="https://portfolio-v3-puly.netlify.app/" class="hover:scale-110 transition">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-briefcase-filled" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-briefcase" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
             <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-            <path d="M22 13.478v4.522a3 3 0 0 1 -3 3h-14a3 3 0 0 1 -3 -3v-4.522l.553 .277a20.999 20.999 0 0 0 18.897 -.002l.55 -.275zm-8 -11.478a3 3 0 0 1 3 3v1h2a3 3 0 0 1 3 3v2.242l-1.447 .724a19.002 19.002 0 0 1 -16.726 .186l-.647 -.32l-1.18 -.59v-2.242a3 3 0 0 1 3 -3h2v-1a3 3 0 0 1 3 -3h4zm-2 8a1 1 0 0 0 -1 1a1 1 0 1 0 2 .01c0 -.562 -.448 -1.01 -1 -1.01zm2 -6h-4a1 1 0 0 0 -1 1v1h6v-1a1 1 0 0 0 -1 -1z" stroke-width="0" fill="currentColor" />
-            </svg>
+            <path d="M3 7m0 2a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v9a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2z" />
+            <path d="M8 7v-2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v2" />
+            <path d="M12 12l0 .01" />
+            <path d="M3 13a20 20 0 0 0 18 0" />
+          </svg>
         </a>
     </div>
   </nav>

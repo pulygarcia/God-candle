@@ -20,12 +20,12 @@
      <div class="navbar-center hidden lg:flex">
         <ul class="menu menu-horizontal px-1">
       <li><NuxtLink to="/about">Acerca</NuxtLink></li>
-      <li><NuxtLink to="/about">Monedas</NuxtLink></li>
+      <li><NuxtLink to="/">Monedas</NuxtLink></li>
       <li><NuxtLink to="/">Estrategia</NuxtLink></li>
     </ul>
      </div>
      <div class="navbar-end">
-       <a class="btn">Blog</a>
+       <button class="btn"><NuxtLink to="/blog">Blog</NuxtLink></button>
      </div>
    </div>
      </div>
