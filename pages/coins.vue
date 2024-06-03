@@ -1,5 +1,6 @@
 <script setup>
-    import InvestmentDisclaimer from '../components/InvestmentDisclaimer .vue';
+    import CoinCard from '../components/CoinCard.vue';
+import InvestmentDisclaimer from '../components/InvestmentDisclaimer .vue';
     import { projects } from '../data/projects';
 </script>
 
@@ -16,24 +17,10 @@
 
       
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-20">
-        <div v-for="project in projects" class="card w-96 bg-base-100 shadow-xl">
-            <figure><img :src="project.image" :alt="project.name" /></figure>
-            <div class="card-body">
-                <h2 class="card-title">
-                {{ project.name }}
-                <div class="badge bg-emerald-500 text-white">{{ project.category }}</div>
-                </h2>
-                <p>{{ project.description }}</p>
-                <div class="card-actions justify-end">
-                    <NuxtLink to="/">
-                        <button class="btn bg-emerald-500 text-white">Ver más</button>
-                    </NuxtLink>
-                    <a :href="`https://coinmarketcap.com/es/currencies/${project.name}/`">
-                        <button class="btn bg-emerald-500 text-white">Precio</button>
-                    </a>
-                </div>
-            </div>
-        </div>
+        <CoinCard 
+            v-for="project in projects"
+            :project="project" 
+        />
       </div>
   
       <div class="divider my-5"></div>
