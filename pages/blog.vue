@@ -1,5 +1,6 @@
 <script setup>
-    import { posts } from '../data/posts';
+    import InvestmentDisclaimer from '../components/InvestmentDisclaimer .vue';
+import { posts } from '../data/posts';
 </script>
 
 <template>
@@ -8,10 +9,7 @@
     <div class="container mx-auto w-11/12 md:w-full py-8">
       <h1 class="text-center text-5xl py-16 font-bold">Entradas de blog</h1>
   
-      <div class="max-w-xl">
-        <h2 class="text-gray-800 text-2xl font-extrabold sm:text-3xl">Atención</h2>
-        <p class="text-gray-600 mt-2">El contenido que está por ver a continuación <span class="text-red-500">no es recomendación de inversión</span>. Usted es responsable de su dinero y las decisiones que tome con el mismo.</p>
-      </div>
+      <InvestmentDisclaimer />
 
       <article class="space-y-10 mt-10">
         <Posts :posts="posts"></Posts>
