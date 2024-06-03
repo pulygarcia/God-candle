@@ -152,5 +152,171 @@ export const projects = [
       ranking: 152,
       category: "DEX"
     },
+    {
+      name: "Goldfinch-protocol",
+      ticker: "GFI",
+      image: "https://www.securities.io/wp-content/uploads/2022/03/Investing-in-Goldfinch-GFI-Everythig-You-Need-to-Know.png",
+      description: "Goldfinch es un protocolo DeFi (finanzas descentralizadas) que opera en Ethereum. Su objetivo es proporcionar préstamos sin garantía a usuarios en mercados emergentes y subatendidos.",
+      text: "Formando parte de la narrativa de los activos RWA (real world assets), Goldfinch es un proyecto muy atractivo a tener en cuenta para invertir. Ya que al hablar de activos que intervienen en el 'mundo real', el proyecto contribuye en distintas situaciones como por ejemplo sustentabilidad de Latinoamérica, reducción de carbono e innovación en África.",
+      partners: ['Coinbase venture', 'Stratos technologies', 'Variant'],
+      exchanges: [
+        {
+          name: 'Coinbase',
+          link: 'https://www.coinbase.com/'
+        },
+        {
+          name: 'Bitget',
+          link: 'https://bitget.com/'
+        },
+        {
+          name: 'Mexc',
+          link: 'https://www.mexc.com/'
+        }
+      ],
+      projectWebsite: 'https://goldfinch.finance/',
+      ranking: 490,
+      category: "RWA"
+    },
+    {
+      name: "Wilder-world",
+      ticker: "WILD",
+      image: "https://pbs.twimg.com/profile_images/1770665208077533184/bN_ts2pz_400x400.jpg",
+      description: "Wilder world es un videojuego que combina la realidad virtual aumentada con blockchain que está actualmente en desarrollo y se encuentra en lista de espera en Epic Games.",
+      text: "Un juego que se acerca al estilo de GTA, con blockchain. En Wilder World, los usuarios pueden comprar, vender y poseer activos digitales únicos llamados NFTs (tokens no fungibles) que representan terrenos virtuales, obras de arte, avatares y otros elementos del metaverso. Recomiendo visitar el sitio web y ver lo atractivo y de alta calidad que se ve el juego, si la narrativa de Gaming toma terreno, este proyecto tendrá una oportunidad enorme de crecimiento.",
+      partners: ['Samsung', 'Nvidia', 'Superverse', 'Epic games'],
+      exchanges: [
+        {
+          name: 'Bitget',
+          link: 'https://bitget.com/'
+        },
+        {
+          name: 'Mexc',
+          link: 'https://www.mexc.com/'
+        }
+      ],
+      projectWebsite: 'https://www.wilderworld.com/',
+      ranking: 358,
+      category: "Gaming"
+    },
+    {
+      name: "Near-protocol",
+      ticker: "NEAR",
+      image: "https://s3.coinmarketcap.com/static-gravity/image/ef3ad80e423a4449ab8e961b0d1edea4.png",
+      description: "Near Protocol se centra en abordar los problemas de escalabilidad y usabilidad que enfrentan muchas blockchains, al ofrecer tiempos de confirmación rápidos y tarifas de transacción bajas.",
+      text: "Al mando de la narrativa de la Inteligencia Artificial, Near protocol está trabajando en ser una red dedicada a la inteligencia artifical y construída con ella. Lo cual lo hace única y un proyecto serio con gran potencial al tener colaboración con grandes como Google y Mastercard. Instituciones como Grayscale han solicitado un ETF de Near, para tener en cuenta...",
+      partners: ['Mastercard', 'Google'],
+      exchanges: [
+        {
+          name: 'Binance',
+          link: 'https://www.binance.com/'
+        },
+        {
+          name: 'Coinbase Pro',
+          link: 'https://www.coinbase.com/'
+        },
+        {
+          name: 'OKX',
+          link: 'https://www.okx.com/'
+        },
+        {
+          name: 'Bitget',
+          link: 'https://bitget.com/'
+        },
+        {
+          name: 'Mexc',
+          link: 'https://www.mexc.com/'
+        }
+      ],
+      projectWebsite: 'https://www.nearprotocol.com/',
+      ranking: 17,
+      category: "AI"
+    },
+    {
+      name: "Ondo-finance",
+      ticker: "ONDO",
+      image: "https://pbs.twimg.com/media/GEeqdmqX0AAq1XF.png:large",
+      description: "Ondo Finance es una plataforma DeFi cuyo objetivo principal es ofrecer productos de inversión que permitan a los usuarios obtener rendimientos ajustados al riesgo en el ecosistema de las criptomonedas.",
+      text: "Se encuentra dentro de la narrativa de los activos RWA (real world assets),siendo la opción más 'segura'. Está avalado por grandes como Blackrock y otras empresas que se desempeñan en blockchain como Injective, Polygon y Coinbase. Sus objetivos como proyecto lo hacen serio e interesante para invertir en el.",
+      partners: ['Blackrock', 'Injective', 'Injective', 'Polygon'],
+      exchanges: [
+        {
+          name: 'Binance',
+          link: 'https://www.binance.com/'
+        },
+        {
+          name: 'Coinbase Pro',
+          link: 'https://www.coinbase.com/'
+        },
+        {
+          name: 'OKX',
+          link: 'https://www.okx.com/'
+        },
+        {
+          name: 'Bitget',
+          link: 'https://bitget.com/'
+        },
+        {
+          name: 'Mexc',
+          link: 'https://www.mexc.com/'
+        }
+      ],
+      projectWebsite: 'https://www.ondo.foundation/',
+      ranking: 58,
+      category: "RWA"
+    },
+    {
+      name: "Nakamoto-games",
+      ticker: "NAKA",
+      image: "https://s3.coinmarketcap.com/static-gravity/image/b75b09929e244c6ab9806bd2ca0b20db.jpg",
+      description: "Nakamoto games es un estudio de videojuegos ligados a la blockchain. Uno de los proyectos más nombrados dentro de la narrativa del gaming.",
+      text: "Se encuentra dentro de la narrativa de gaming. Como dato curioso, está dentro del top de los proyecto mas twiteados por la comunidad de habla inglesa.",
+      partners: [],
+      exchanges: [
+        {
+          name: 'Bitget',
+          link: 'https://bitget.com/'
+        },
+        {
+          name: 'Mexc',
+          link: 'https://www.mexc.com/'
+        }
+      ],
+      projectWebsite: 'https://www.nakamoto.games/',
+      ranking: 389,
+      category: "Gaming"
+    },
+    {
+      name: "Celo",
+      ticker: "CELO",
+      image: "https://static.chainbroker.io/mediafiles/projects/celo/celo.jpeg",
+      description: "Celo es una plataforma de blockchain enfocada en facilitar el acceso a servicios financieros a través de dispositivos móviles, con el objetivo de promover la inclusión financiera.",
+      text: "Celo forma parte de la narrativa de la 'inclusión financiera' dentro del ecosistema de las criptomonedas. Esta narrativa se centra en el uso de tecnologías descentralizadas para proporcionar acceso a servicios financieros a personas no bancarizadas o sub-bancarizadas, especialmente en regiones en desarrollo. Lo cual lo convierte en un proyecto con solidez, trabajando con USDC y USDT para realizar pagos de forma múltiple.",
+      partners: ['Tether', 'Circle'],
+      exchanges: [
+        {
+          name: 'Binance',
+          link: 'https://www.binance.com/'
+        },
+        {
+          name: 'Coinbase Pro',
+          link: 'https://www.coinbase.com/'
+        },
+        {
+          name: 'OKX',
+          link: 'https://www.okx.com/'
+        },
+        {
+          name: 'Bitget',
+          link: 'https://bitget.com/'
+        },
+        {
+          name: 'Mexc',
+          link: 'https://www.mexc.com/'
+        }
+      ],
+      projectWebsite: 'https://www.celo.org/',
+      ranking: 154,
+      category: "L2"
+    },
   ];
   
