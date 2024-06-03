@@ -25,7 +25,7 @@
     </ul>
      </div>
      <div class="navbar-end">
-       <button class="btn"><NuxtLink to="/blog">Blog</NuxtLink></button>
+      <NuxtLink to="/blog"><button class="btn">Blog</button></NuxtLink>
      </div>
    </div>
      </div>
