@@ -1,3 +1,5 @@
+import {coinID} from '../helpers/index'
+
 export const projects = [
     {
       name: "Solana",
@@ -30,7 +32,8 @@ export const projects = [
       ],
       projectWebsite: 'https://solana.com/',
       ranking: 5,
-      category: "L1"
+      id: coinID(),
+      category: "L1",
     },
     {
       name: "Render",
@@ -63,6 +66,7 @@ export const projects = [
       ],
       projectWebsite: 'https://rendernetwork.com/',
       ranking: 27,
+      id: coinID(),
       category: "AI"
     },
     {
@@ -88,6 +92,7 @@ export const projects = [
       ],
       projectWebsite: 'https://www.realio.fund/',
       ranking: 1157,
+      id: coinID(),
       category: "RWA"
     },
     {
@@ -121,6 +126,7 @@ export const projects = [
       ],
       projectWebsite: 'https://avax.com/',
       ranking: 12,
+      id: coinID(),
       category: "L1"
     },
     {
@@ -150,6 +156,7 @@ export const projects = [
       ],
       projectWebsite: 'https://raydium.com/',
       ranking: 152,
+      id: coinID(),
       category: "DEX"
     },
     {
@@ -175,6 +182,7 @@ export const projects = [
       ],
       projectWebsite: 'https://goldfinch.finance/',
       ranking: 490,
+      id: coinID(),
       category: "RWA"
     },
     {
@@ -196,6 +204,7 @@ export const projects = [
       ],
       projectWebsite: 'https://www.wilderworld.com/',
       ranking: 358,
+      id: coinID(),
       category: "Gaming"
     },
     {
@@ -229,6 +238,7 @@ export const projects = [
       ],
       projectWebsite: 'https://www.nearprotocol.com/',
       ranking: 17,
+      id: coinID(),
       category: "AI"
     },
     {
@@ -262,6 +272,7 @@ export const projects = [
       ],
       projectWebsite: 'https://www.ondo.foundation/',
       ranking: 58,
+      id: coinID(),
       category: "RWA"
     },
     {
@@ -283,6 +294,7 @@ export const projects = [
       ],
       projectWebsite: 'https://www.nakamoto.games/',
       ranking: 389,
+      id: coinID(),
       category: "Gaming"
     },
     {
@@ -316,6 +328,7 @@ export const projects = [
       ],
       projectWebsite: 'https://www.celo.org/',
       ranking: 154,
+      id: coinID(),
       category: "L2"
     },
   ];
