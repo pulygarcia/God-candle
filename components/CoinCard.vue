@@ -8,7 +8,7 @@
 </script>
 
 <template>
-    <div class="card max-w-96 bg-base-100 shadow-xl">
+    <div class="card max-w-96 bg-base-100 shadow-xl mx-auto">
             <figure><img :src="project.image" :alt="project.name" /></figure>
             <div class="card-body">
                 <h2 class="card-title">

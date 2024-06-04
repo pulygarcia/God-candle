@@ -30,6 +30,12 @@ export const posts = [
         image: 'https://kaizen.com/wp-content/uploads/2023/11/Image1-4-scaled.webp'
     },
     {
+        title: 'Herramientas altamente útiles',
+        description: 'Conoce herramientas imprescindibles a la hora de hacer trading o analizar el mercado',
+        linkName: 'tools',
+        image: 'https://assets.entrepreneur.com/content/3x2/2000/1633984422-GettyImages-1276312812.jpg?format=pjeg&auto=webp'
+    },
+    {
         title: 'Administración de capital',
         description: 'Dividir tu capital en diferentes activos es clave, informate que formas hay de hacerlo',
         linkName: 'administration',
