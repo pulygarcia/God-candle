@@ -1,5 +1,3 @@
-import {coinID} from '../helpers/index'
-
 export const projects = [
     {
       name: "Solana",
@@ -32,7 +30,8 @@ export const projects = [
       ],
       projectWebsite: 'https://solana.com/',
       ranking: 5,
-      id: coinID(),
+      risk: 'Bajo',
+      articleDatePrice: 166.3,
       category: "L1",
     },
     {
@@ -66,7 +65,8 @@ export const projects = [
       ],
       projectWebsite: 'https://rendernetwork.com/',
       ranking: 27,
-      id: coinID(),
+      risk: 'Bajo',
+      articleDatePrice: 10.34,
       category: "AI"
     },
     {
@@ -74,7 +74,7 @@ export const projects = [
       ticker: "RIO",
       image: "https://pbs.twimg.com/profile_images/1517126975160295424/AmqWlsie_400x400.png",
       description: "Realio Network permite a los usuarios invertir en una variedad de activos tradicionales como bienes raíces, obras de arte, productos básicos y empresas, a través de tokens digitales respaldados por estos activos.",
-      text: "Al mando de la narrativa de los activos RWA (Real world assets), al tokenizar activos del mundo real, Realio Network busca mejorar la liquidez, la accesibilidad y la eficiencia de la inversión en estos activos, permitiendo a los inversores fraccionar la propiedad o producto y negociar estos tokens en mercados secundarios. Esto puede abrir nuevas oportunidades de inversión para una amplia gama de personas y brindar acceso a activos que de otro modo serían inaccesibles o difíciles de negociar.",
+      text: "Al mando de la narrativa de los activos RWA (Real world assets), al tokenizar activos del mundo real, Realio Network busca mejorar la liquidez, la accesibilidad y la eficiencia de la inversión en estos activos, permitiendo a los inversores fraccionar la propiedad o producto y negociar estos tokens en mercados secundarios. Esto puede abrir nuevas oportunidades de inversión para una amplia gama de personas y brindar acceso a activos que de otro modo serían inaccesibles o difíciles de negociar. En cuanto a proyección, al tener baja capitalización de mercado (pero un buen volumen de trading), no está listada AÚN en exchanges top como Binance o Coinbase. Si llega a anunciarse un listado de este proyecto en exchanges top, incrementaría notoriamente su precio. Además, como dato no menor, es una de las altcoins más twiteadas dentro del top 10, lo cual genera repercusión y marketing al proyecto para llegar a nuevos posibles inversores.",
       partners: [],
       exchanges: [
         {
@@ -92,7 +92,8 @@ export const projects = [
       ],
       projectWebsite: 'https://www.realio.fund/',
       ranking: 1157,
-      id: coinID(),
+      risk: 'Alto',
+      articleDatePrice: 1.9,
       category: "RWA"
     },
     {
@@ -126,7 +127,8 @@ export const projects = [
       ],
       projectWebsite: 'https://avax.com/',
       ranking: 12,
-      id: coinID(),
+      risk: 'Bajo',
+      articleDatePrice: 35.7,
       category: "L1"
     },
     {
@@ -156,7 +158,8 @@ export const projects = [
       ],
       projectWebsite: 'https://raydium.com/',
       ranking: 152,
-      id: coinID(),
+      risk: 'Intermedio',
+      articleDatePrice: 1.8,
       category: "DEX"
     },
     {
@@ -164,7 +167,7 @@ export const projects = [
       ticker: "GFI",
       image: "https://www.securities.io/wp-content/uploads/2022/03/Investing-in-Goldfinch-GFI-Everythig-You-Need-to-Know.png",
       description: "Goldfinch es un protocolo DeFi (finanzas descentralizadas) que opera en Ethereum. Su objetivo es proporcionar préstamos sin garantía a usuarios en mercados emergentes y subatendidos.",
-      text: "Formando parte de la narrativa de los activos RWA (real world assets), Goldfinch es un proyecto muy atractivo a tener en cuenta para invertir. Ya que al hablar de activos que intervienen en el 'mundo real', el proyecto contribuye en distintas situaciones como por ejemplo sustentabilidad de Latinoamérica, reducción de carbono e innovación en África.",
+      text: "Formando parte de la narrativa de los activos RWA (real world assets), Goldfinch es un proyecto muy atractivo a tener en cuenta para invertir. Ya que al hablar de activos que intervienen en el 'mundo real', el proyecto contribuye en distintas situaciones como por ejemplo sustentabilidad de Latinoamérica, reducción de carbono e innovación en África. Si bien el proyecto no se encuentra listado en Binance (exchange número 1 del mercado), lo está en Coinbase, el exchange de confianza de los usuarios Americanos. Eso genera confianza al invertir en el proyecto. Y abre puertas a un futuro listado en Binance si la narrativa de RWA toma terreno y este proyecto genera repercusión, lo cual sería una gran entrada de capital a partir de potenciales inversores. Sin tener en cuenta que cuenta con inversores de renombre detrás del proyecto, empresas que no invierten dinero en cualquier activo o en proyectos de dudoso origen.",
       partners: ['Coinbase venture', 'Stratos technologies', 'Variant'],
       exchanges: [
         {
@@ -182,7 +185,8 @@ export const projects = [
       ],
       projectWebsite: 'https://goldfinch.finance/',
       ranking: 490,
-      id: coinID(),
+      risk: 'Intermedio',
+      articleDatePrice: 3.4,
       category: "RWA"
     },
     {
@@ -190,7 +194,7 @@ export const projects = [
       ticker: "WILD",
       image: "https://pbs.twimg.com/profile_images/1770665208077533184/bN_ts2pz_400x400.jpg",
       description: "Wilder world es un videojuego que combina la realidad virtual aumentada con blockchain que está actualmente en desarrollo y se encuentra en lista de espera en Epic Games.",
-      text: "Un juego que se acerca al estilo de GTA, con blockchain. En Wilder World, los usuarios pueden comprar, vender y poseer activos digitales únicos llamados NFTs (tokens no fungibles) que representan terrenos virtuales, obras de arte, avatares y otros elementos del metaverso. Recomiendo visitar el sitio web y ver lo atractivo y de alta calidad que se ve el juego, si la narrativa de Gaming toma terreno, este proyecto tendrá una oportunidad enorme de crecimiento.",
+      text: "Un juego que transcurre en Miami como mapa princial, estilo de GTA, con blockchain. Desarrollado por artistas que participaron en proyectos de renombre como Avengers, Dune y Universal. En Wilder World, los usuarios pueden comprar, vender y poseer activos digitales únicos llamados NFTs (tokens no fungibles) que representan terrenos virtuales, obras de arte, avatares y otros elementos del metaverso. Dentro de el hay modos de carrera, aventura y guerra en el metaverso. Recomiendo visitar el sitio web y ver lo atractivo y de alta calidad que se ve el juego, si la narrativa de Gaming toma terreno, este proyecto tendrá una oportunidad enorme de crecimiento.",
       partners: ['Samsung', 'Nvidia', 'Superverse', 'Epic games'],
       exchanges: [
         {
@@ -204,7 +208,8 @@ export const projects = [
       ],
       projectWebsite: 'https://www.wilderworld.com/',
       ranking: 358,
-      id: coinID(),
+      risk: 'Alto',
+      articleDatePrice: 0.64,
       category: "Gaming"
     },
     {
@@ -238,7 +243,8 @@ export const projects = [
       ],
       projectWebsite: 'https://www.nearprotocol.com/',
       ranking: 17,
-      id: coinID(),
+      risk: 'Bajo',
+      articleDatePrice: 7.4,
       category: "AI"
     },
     {
@@ -247,7 +253,7 @@ export const projects = [
       image: "https://pbs.twimg.com/media/GEeqdmqX0AAq1XF.png:large",
       description: "Ondo Finance es una plataforma DeFi cuyo objetivo principal es ofrecer productos de inversión que permitan a los usuarios obtener rendimientos ajustados al riesgo en el ecosistema de las criptomonedas.",
       text: "Se encuentra dentro de la narrativa de los activos RWA (real world assets),siendo la opción más 'segura'. Está avalado por grandes como Blackrock y otras empresas que se desempeñan en blockchain como Injective, Polygon y Coinbase. Sus objetivos como proyecto lo hacen serio e interesante para invertir en el.",
-      partners: ['Blackrock', 'Injective', 'Injective', 'Polygon'],
+      partners: ['Blackrock', 'Injective', 'Polygon', 'Coinbase'],
       exchanges: [
         {
           name: 'Binance',
@@ -272,7 +278,8 @@ export const projects = [
       ],
       projectWebsite: 'https://www.ondo.foundation/',
       ranking: 58,
-      id: coinID(),
+      risk: 'Bajo',
+      articleDatePrice: 1.4,
       category: "RWA"
     },
     {
@@ -280,7 +287,7 @@ export const projects = [
       ticker: "NAKA",
       image: "https://s3.coinmarketcap.com/static-gravity/image/b75b09929e244c6ab9806bd2ca0b20db.jpg",
       description: "Nakamoto games es un estudio de videojuegos ligados a la blockchain. Uno de los proyectos más nombrados dentro de la narrativa del gaming.",
-      text: "Se encuentra dentro de la narrativa de gaming. Como dato curioso, está dentro del top de los proyecto mas twiteados por la comunidad de habla inglesa.",
+      text: "Se encuentra dentro de la narrativa de gaming. Como dato curioso, el activo está dentro del top de los proyecto mas twiteados por la comunidad de habla inglesa. Aún no se encuentra listado en exchanges top como Binance o Coinbase, pero si genera la repercusión y volumen suficiente al tomar terreno la narrativa del gaming, podría darse. Lo cual abriría camino a potenciales inversores.",
       partners: [],
       exchanges: [
         {
@@ -294,7 +301,8 @@ export const projects = [
       ],
       projectWebsite: 'https://www.nakamoto.games/',
       ranking: 389,
-      id: coinID(),
+      risk: 'Alto',
+      articleDatePrice: 1.6,
       category: "Gaming"
     },
     {
@@ -328,7 +336,8 @@ export const projects = [
       ],
       projectWebsite: 'https://www.celo.org/',
       ranking: 154,
-      id: coinID(),
+      risk: 'Intermedio',
+      articleDatePrice: 0.8,
       category: "L2"
     },
   ];

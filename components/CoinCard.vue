@@ -17,7 +17,7 @@
                 </h2>
                 <p>{{ project.description }}</p>
                 <div class="card-actions justify-end">
-                    <NuxtLink :to="`coins/${project.id}`">
+                    <NuxtLink :to="`coins/${project.ticker}`">
                         <button class="btn bg-emerald-500 text-white">Ver más</button>
                     </NuxtLink>
                     <a :href="`https://coinmarketcap.com/es/currencies/${project.name}/`">
