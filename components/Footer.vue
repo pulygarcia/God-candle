@@ -9,20 +9,20 @@
     <FooterLink linkText="Blog" pageName="blog"/>
   </nav> 
   <nav>
-    <h6 class="footer-title">Entradas</h6> 
+    <p class="footer-title">Entradas</p> 
     <FooterLink linkText="Introducción a crypto y blockchain" pageName="introduction"/>
     <FooterLink linkText="Proyectos con potencial" pageName="coins"/>
     <FooterLink linkText="Narrativas" pageName="narratives"/>
     <FooterLink linkText="Herramientas de trading" pageName="tools"/>
   </nav> 
   <nav>
-    <h6 class="footer-title">¿Como operar?</h6> 
+    <p class="footer-title">¿Como operar?</p> 
     <FooterLink linkText="Donde compro" pageName="tools"/>
     <FooterLink linkText="Estrategia" pageName="strategy"/>
     <FooterLink linkText="División de capital" pageName="administration"/>
   </nav> 
   <nav>
-    <h6 class="footer-title">Made by Puly &copy;</h6> 
+    <p class="footer-title">Made by Puly &copy;</p> 
     <div class="grid grid-flow-col gap-4">
        <MyLinks />
     </div>

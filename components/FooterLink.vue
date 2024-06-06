@@ -11,5 +11,5 @@
 </script>
 
 <template>
-    <a class="link link-hover"><NuxtLink :to="pageName ? '/' + pageName : '/'">{{ linkText }}</NuxtLink></a>
+    <NuxtLink :to="pageName ? '/' + pageName : '/'" class="link link-hover">{{ linkText }}</NuxtLink>
 </template>

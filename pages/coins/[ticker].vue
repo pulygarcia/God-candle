@@ -17,7 +17,7 @@
       </div>
       
       <div class="flex items-center gap-2">
-        <div class="badge bg-emerald-500 text-white text-md py-4 mb-8">{{ currentProject.category }} category</div>
+        <div class="badge bg-emerald-600 text-white text-md py-4 mb-8">{{ currentProject.category }} category</div>
         <div class="badge bg-gray-400 text-white text-md py-4 mb-8 font-bold">{{ ' #' + currentProject.ranking }}</div>
         <div 
           class="badge text-gray-600 text-md py-4 mb-8 font-bold border"

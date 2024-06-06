@@ -1,6 +1,6 @@
 <script setup>
-    import InvestmentDisclaimer from '../components/InvestmentDisclaimer .vue';
-import { posts } from '../data/posts';
+    import InvestmentDisclaimer from '../components/InvestmentDisclaimer.vue';
+    import { posts } from '../data/posts';
 </script>
 
 <template>
@@ -17,7 +17,7 @@ import { posts } from '../data/posts';
   
       <div class="divider my-5"></div>
   
-      <p class="mt-5">Este sitio fué construído por <a href="https://github.com/pulygarcia" class="text-emerald-500">Puly G</a>.</p>
+      <p class="mt-5">Este sitio fué construído por <a href="https://github.com/pulygarcia" class="text-emerald-600">Puly G</a>.</p>
     </div>
   
     <Footer></Footer>

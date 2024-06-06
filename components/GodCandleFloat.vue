@@ -36,6 +36,6 @@
 <h3 class="text-center font-bold text-4xl">GodCandle</h3>
 <div class="mt-4 space-y-3">
   <p class="text-gray-500 text-center">Si te interesan las inversiones en criptomonedas, estás en el lugar indicado.</p>
-  <p class="text-gray-500 text-center">Explora todas las entradas de <NuxtLink to="/blog" class="text-emerald-500 underline">Blog</NuxtLink> de GodCandle y encontrá gran información.</p>
+  <p class="text-gray-500 text-center">Explora todas las entradas de <NuxtLink to="/blog" class="text-emerald-600 underline">Blog</NuxtLink> de GodCandle y encontrá gran información.</p>
 </div>
 </template>

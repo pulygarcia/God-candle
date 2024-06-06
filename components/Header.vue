@@ -15,10 +15,10 @@
            <li><NuxtLink to="/exchanges">Plataformas de trading</NuxtLink></li>
          </ul>
        </div>
-       <a href="/" class="btn btn-ghost text-xl flex items-center">
+       <NuxtLink to="/" class="btn btn-ghost text-xl flex items-center">
          <span>GodCandle</span>
          <img src="/public/green-candle.svg" alt="god candle logo" class="w-6">
-       </a>
+       </NuxtLink>
      </div>
      <div class="navbar-center hidden lg:flex">
         <ul class="menu menu-horizontal px-1">

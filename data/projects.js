@@ -165,7 +165,7 @@ export const projects = [
     {
       name: "Goldfinch-protocol",
       ticker: "GFI",
-      image: "https://www.securities.io/wp-content/uploads/2022/03/Investing-in-Goldfinch-GFI-Everythig-You-Need-to-Know.png",
+      image: "https://pbs.twimg.com/profile_images/1597284491155968002/f3Erz2N3_400x400.jpg",
       description: "Goldfinch es un protocolo DeFi (finanzas descentralizadas) que opera en Ethereum. Su objetivo es proporcionar préstamos sin garantía a usuarios en mercados emergentes y subatendidos.",
       text: "Formando parte de la narrativa de los activos RWA (real world assets), Goldfinch es un proyecto muy atractivo a tener en cuenta para invertir. Ya que al hablar de activos que intervienen en el 'mundo real', el proyecto contribuye en distintas situaciones como por ejemplo sustentabilidad de Latinoamérica, reducción de carbono e innovación en África. Si bien el proyecto no se encuentra listado en Binance (exchange número 1 del mercado), lo está en Coinbase, el exchange de confianza de los usuarios Americanos. Eso genera confianza al invertir en el proyecto. Y abre puertas a un futuro listado en Binance si la narrativa de RWA toma terreno y este proyecto genera repercusión, lo cual sería una gran entrada de capital a partir de potenciales inversores. Sin tener en cuenta que cuenta con inversores de renombre detrás del proyecto, empresas que no invierten dinero en cualquier activo o en proyectos de dudoso origen.",
       partners: ['Coinbase venture', 'Stratos technologies', 'Variant'],

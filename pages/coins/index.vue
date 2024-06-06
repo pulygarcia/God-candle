@@ -1,5 +1,6 @@
 <script setup>
     import CoinCard from '../components/CoinCard.vue';
+    import InvestmentDisclaimer from '../../components/InvestmentDisclaimer.vue';
     import { projects } from '../data/projects';
 </script>
 
