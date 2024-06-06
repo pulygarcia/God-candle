@@ -13,7 +13,7 @@
             <a :href="post.linkName" class="space-y-3">
             <div class="flex items-center gap-x-3">
                 <div class="flex items-center justify-center">
-                    <NuxtImg format="webp" :src="post.image" :alt="post.title" loading="lazy" class="w-16 h-16 rounded-full object-cover"/>
+                    <img :src="post.image" :alt="post.title" loading="lazy" class="w-16 h-16 rounded-full object-cover">
                 </div>
                 <div>
                 <span class="text-emerald-600 font-semibold text-sm">03 Jun 2024</span>
