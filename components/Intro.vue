@@ -53,13 +53,13 @@ import GodCandleFloat from './GodCandleFloat.vue';
                         <button class="btn border border-emerald-500 hover:border-black transition w-56 text-base">Ver más</button>
                     </NuxtLink>
                 </div>
-                <NuxtImg format="webp" src="/candles.svg" alt="trading candles" loading="lazy" class="max-h-48 md:max-h-80 w-full object-contain rounded-md"/>
+                <NuxtImg format="webp" src="/candles.svg" alt="trading candles" loading="lazy" class="h-48 md:h-80 w-full object-contain rounded-md"/>
             </article>
 
             <div class="divider my-5"></div>
 
             <article class="mt-20 space-y-6 grid grid-cols-1 md:grid-cols-3 items-center">
-                <NuxtImg format="webp" src="/pie.png" alt="pie chart" loading="lazy" class="max-h-48 md:max-h-80 w-full object-contain rounded-md"/>
+                <NuxtImg format="webp" src="/pie.png" alt="pie chart" loading="lazy" class="h-48 md:h-80 w-full object-contain rounded-md"/>
                 <!-- <img src="/public/pie.png" alt="chart" class="md:max-h-80 w-full object-contain rounded-md"> -->
 
                 <div class="col-span-2">
