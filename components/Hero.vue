@@ -1,5 +1,5 @@
 <template>
-    <div class="hero h-screen" style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.8)0%, rgba(0, 0, 0, 0.8)100%), url(/hero-image.jpg);">
+    <div class="hero h-screen bg-gray-950" style="background-image: url(/bg-grid.png); background-size: 100px 100px; background-position-y: -9px;">
   <div class="hero-content text-center text-neutral-content">
     <div class="">
       <h1 class="mb-5 text-5xl md:text-6xl font-bold">Inversiones en el espacio de las criptomonedas</h1>
