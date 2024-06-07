@@ -7,6 +7,7 @@
     <FooterLink linkText="Inicio"/>
     <FooterLink linkText="Acerca de GodCandle" pageName="about"/>
     <FooterLink linkText="Blog" pageName="blog"/>
+    <FooterLink linkText="Cotizaciones en tiempo real" pageName="live-quotes"/>
   </nav> 
   <nav>
     <p class="footer-title">Entradas</p> 
