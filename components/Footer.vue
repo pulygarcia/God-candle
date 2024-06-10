@@ -18,7 +18,7 @@
   </nav> 
   <nav>
     <p class="footer-title">¿Como operar?</p> 
-    <FooterLink linkText="Donde compro" pageName="tools"/>
+    <FooterLink linkText="Donde compro" pageName="exchanges"/>
     <FooterLink linkText="Estrategia" pageName="strategy"/>
     <FooterLink linkText="División de capital" pageName="administration"/>
   </nav> 

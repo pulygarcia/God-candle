@@ -3,26 +3,31 @@
     
     <div class="container mx-auto w-11/12 md:w-full py-8">
       <h1 class="text-center text-5xl py-16 font-bold">Gestion y distribución de capital al invertir</h1>
-      <Writting />
   
-      <!-- <article class="space-y-10">
+      <article class="space-y-10">
         <div>
-          <h2 class="text-4xl font-semibold mb-6">¿Qué es GodCandle?</h2>
-          <p class="text-lg"><strong>GodCandle</strong> es un blog dedicado a las inversiones en blockchain y criptomonedas. Útil tanto para nuevos interesados en el entorno como para personas que ya cuenten con experiencia en trading dentro del espacio. En el cual encontrarás información valiosa como consejos a la hora de diversificar tu capital, gestionar riesgo de acuerdo a tu tolerancia del mismo, plataformas altamente recomendadas, proyectos con gran proyección de crecimiento y estrategias.</p>
+          <h2 class="text-4xl font-semibold mb-6">Diversificar tu capital correctamente</h2>
+          <p class="text-lg">Dividir tu capital es una estrategia esencial para minimizar riesgos y maximizar potenciales ganancias en el mercado de criptomonedas. Teniendo en consideración que son activos de alta volatilidad, sobre todo cuando se invierte en activos de baja capitalización de mercado.</p>
         </div>
   
         <div>
-          <h2 class="text-4xl font-semibold mb-6">Objetivos</h2>
-          <p class="text-lg">Nuestro principal objetivo es proporcionar a posibles inversores y entusiastas de las criptomonedas un recurso confiable y completo para informarse y educarse sobre el mundo de las inversiones en blockchain y criptomonedas.</p>
+          <h2 class="text-4xl font-semibold mb-6">Distribuye entre diferentes proyectos</h2>
+          <p class="text-lg">No pongas todo tu capital en una solo proyecto. Invierte en una variedad de criptomonedas con diferentes casos de uso y niveles de <strong>riesgo</strong>.</p>
+          <p class="text-lg">Por ejemplo, puedes tener opciones al dividir como por ejemplo: </p>
   
           <ul class="list-disc ps-3 mt-6">
-            <li class="">Ofrecer contenido educativo y accesible para todos, independientemente de su nivel de experiencia, para que puedan tomar decisiones de inversión informadas.</li>
-            <li class="">Mantener a nuestros lectores actualizados con las últimas tendencias, desarrollos y oportunidades en el ámbito de la blockchain y las criptomonedas.</li>
-            <li class="">Construir una comunidad de potenciales inversores informados correctamente aprendiendo de experiencias y mejores prácticas para el éxito mutuo.</li>
-            <li class="">Proveer análisis y opiniones basadas en investigaciones rigurosas sobre las plataformas de trading más recomendadas y seguras.</li>
+            <li class="">Monedas de reserva de valor: Como Bitcoin, que se considera un "oro digital", siendo la opción de menos riesgo.</li>
+            <li class="">Proyectos sólidos que coticen dentro del top 15 por capitalización de mercado. <NuxtLink to="/live-quotes" class="text-blue-500 underline">Ver top 100 aquí</NuxtLink></li>
+            <li class="">Conservar una porción del dinero en stable coins como USDT o USDC. En caso de que el mercado de potenciales zonas de compra.</li>
+            <li class="">Dividir por narrativas: es bueno mantener en tu cartera proyectos que formen parte de una narrativa fuerte dentro del mercado. Existen opciones como proyectos de <strong>Gaming, Real world assets, DeFi, Inteligencia artificial, infraestructura blockchain, Metaverso, Oráculos.</strong></li>
+            <li class="">Utilizar herramientas como los stop loss y take profit para gestionar riesgo y proteger tu capital.</li>
+            <li class="">Recuerda que todas las inversiones conllevan riesgos y es importante invertir solo lo que estés <strong>dispuesto a perder</strong>. Mantén una estrategia clara y bien pensada, y evita tomar decisiones impulsivas basadas en emociones o rumores del mercado.</li>
           </ul>
+
+          <h3 class="text-4xl font-semibold my-6">Investiga y mantente informado</h3>
+          <p class="text-lg">Mantente actualizado sobre las tendencias del mercado, noticias relevantes y desarrollos tecnológicos. Esto te permitirá tomar decisiones informadas sobre cuándo comprar, mantener o vender.</p>
         </div>
-      </article> -->
+      </article>
   
       <div class="divider my-5"></div>
   
